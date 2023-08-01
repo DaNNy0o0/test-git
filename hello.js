@@ -1,4 +1,1 @@
-console.log('Hola!')
-
-
-console.log('Qué tal?')
+console.log('New Hello!')
